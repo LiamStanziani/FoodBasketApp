@@ -1,0 +1,75 @@
+﻿@using FoodBasketApp.Entities
+@model FoodItemsViewModel
+
+@{
+    ViewData["Title"] = "Our Food Basket";
+
+    string baseCssClass = "nav-link";
+    string cssClass = "";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-6">
+            <div>
+                <ul class="nav nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Items" asp-route-category="All">All</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Items" asp-route-category="Fruit">Fruit</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Items" asp-route-category="Vegetable">Vegetable</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Items" asp-route-category="Meat">Meat</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Items" asp-route-category="Fish">Fish</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Items" asp-route-category="Poultry">Poultry</a>
+                    </li>
+                    @foreach (string category in Model.TabNames)
+                    {
+                        if (Model.CurrentlyActive == string.Join(" ", Model.TabNames))
+                        {
+                            cssClass = baseCssClass + " active";
+                        }
+                    }
+                </ul>
+            </div>
+    </div>
+    <div class="row my-2">
+        <div class="col-sm-12 col-md-6">
+            @if (Model.ListOfFoodItems.Count > 0)
+            {
+                <ul>
+                    @foreach (FoodItem foodItem in Model.ListOfFoodItems)
+                    {
+                        <li>@(foodItem.Name)</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>No food to show!</p>
+            }
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <h1>Insert a new item</h1>
+            <form asp-action="AddNewFoodItem" method="post">
+                <div class="form">
+                    <label asp-for="NewFoodItem.Name">Name of food</label>
+                    <input type="text" asp-for="NewFoodItem.Name" class="form-control" />
+                </div>
+                <div class="form">
+                    <label asp-for="NewFoodItem.Category">Category of food item</label>
+                    <select asp-for="NewFoodItem.Category" asp-items="@(new SelectList(FoodBasketApp.Services.FoodService.FoodCategories))" class="form-control">Select a category</select>
+                </div>
+                <button type="submit" class="btn">Add the food</button>
+            </form>
+        </div>
+    </div>
+</div>

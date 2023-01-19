@@ -1,0 +1,83 @@
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\appsettings.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.staticwebassets.runtime.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.exe
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.deps.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.runtimeconfig.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.RazorAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.RazorAssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\scopedcss\bundle\FoodBasketApp.styles.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\scopedcss\projectbundle\FoodBasketApp.bundle.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\refint\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.genruntimeconfig.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket\FoodBasketApp\obj\Debug\net6.0\ref\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\appsettings.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.staticwebassets.runtime.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.exe
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.deps.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.runtimeconfig.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.csproj.AssemblyReference.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.AssemblyInfoInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.AssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.csproj.CoreCompileInputs.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.RazorAssemblyInfo.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.RazorAssemblyInfo.cs
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\scopedcss\bundle\FoodBasketApp.styles.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\scopedcss\projectbundle\FoodBasketApp.bundle.scp.css
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\refint\FoodBasketApp.dll
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.pdb
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.genruntimeconfig.cache
+C:\peter\src\PROG2230-code\in-class-assignments\in-class2\FoodBasket-starting-code\FoodBasketApp\obj\Debug\net6.0\ref\FoodBasketApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\appsettings.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.staticwebassets.runtime.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.exe
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.deps.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.runtimeconfig.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\bin\Debug\net6.0\FoodBasketApp.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.csproj.AssemblyReference.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.AssemblyInfoInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.AssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.csproj.CoreCompileInputs.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.RazorAssemblyInfo.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.RazorAssemblyInfo.cs
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\scopedcss\bundle\FoodBasketApp.styles.css
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\scopedcss\projectbundle\FoodBasketApp.bundle.scp.css
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\refint\FoodBasketApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.pdb
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\FoodBasketApp.genruntimeconfig.cache
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\ref\FoodBasketApp.dll
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets\msbuild.FoodBasketApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FoodBasketApp.props
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FoodBasketApp.props
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FoodBasketApp.props
+C:\Users\fangt\Desktop\SEM 1 2ND YEAR\Prog2230 (Web programming)\Inclasses\Inclass2-LS\in-class2-starting-code\FoodBasketApp\obj\Debug\net6.0\staticwebassets.pack.json
